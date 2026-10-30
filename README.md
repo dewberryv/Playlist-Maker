@@ -26,7 +26,7 @@
 
 <img src="screenshots/favorites.png" width="260" alt="Избранное">
 <img src="screenshots/create-playlist.png" width="260" alt="Создание плейлиста">
-<img src="screenshots/settings-dark.png" width="260" alt="Настройки, тёмная тема">
+<img src="screenshots/settings-light.png" width="260" alt="Настройки, светлая тема">
 
 </details>
 
